@@ -10,6 +10,7 @@ flask run
 ```
 # Node.jsサーバ起動　
 ```sh
+npm i
 npm start
 ```
 
